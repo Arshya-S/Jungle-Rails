@@ -32,9 +32,5 @@ RSpec.describe Product, type: :model do
       expect(@product.category_id).to eql(1)
     end
 
-    
-
-
-
   end
 end
