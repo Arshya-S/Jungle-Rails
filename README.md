@@ -1,6 +1,8 @@
 # Jungle
 
-A mini e-commerce application built with Ruby/Rails where users can buy plants and checkout with a fake credit card and admins can add new products and categories to list on the main page. Implemented using MVC.
+A mini e-commerce application built with Ruby/Rails where users can buy plants and checkout with a fake credit card and admins can add new products and categories to list on the main page. Implemented using MVC. 
+
+(See images below!)
 
 
 ## Setup
