@@ -2,8 +2,11 @@
 
 A mini e-commerce application built with Ruby/Rails where users can buy plants and checkout with a fake credit card and admins can add new products and categories to list on the main page. Implemented using MVC. 
 
-(See images below!)
-
+## Images
+![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_one.png?raw=true)
+![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_two.png?raw=true)
+![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_three.png?raw=true)
+![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_four.png?raw=true)
 
 ## Setup
 
@@ -32,9 +35,3 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
-
-## Images
-![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_one.png?raw=true)
-![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_two.png?raw=true)
-![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_three.png?raw=true)
-![](https://github.com/Arshya-S/Jungle-Rails/blob/master/public/images/Image_four.png?raw=true)
